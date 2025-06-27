@@ -1,6 +1,6 @@
 # smolagents_sandbox
 
-This repository contains a sample code to build an AI agent using a combination of language models and external tools. The agents are built with smolagents. The agent performances are evaluated using a subset of the [GAIA] (https://huggingface.co/spaces/gaia-benchmark/leaderboard) benchmark.
+This repository contains a sample code to build an AI agent using a combination of language models and external tools. The agents are built with smolagents. The agent performances are evaluated using a subset of the [GAIA](https://huggingface.co/spaces/gaia-benchmark/leaderboard) benchmark.
 The application is built with [Gradio](https://gradio.app/) for an interactive web interface.
 
 ## Features
