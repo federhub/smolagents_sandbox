@@ -2,6 +2,7 @@
 
 This repository contains a sample code to build an AI agent using a combination of language models and external tools. The agents are built with smolagents. The agent performances are evaluated using a subset of the [GAIA](https://huggingface.co/spaces/gaia-benchmark/leaderboard) benchmark.
 The application is built with [Gradio](https://gradio.app/) for an interactive web interface.
+The code was originally desinged as solution to the final exam of the [Hugging Face course on AI Agents](https://huggingface.co/learn/agents-course/unit0/introduction)
 
 ## Features
 
