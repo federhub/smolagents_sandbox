@@ -13,7 +13,7 @@ The application is built with [Gradio](https://gradio.app/) for an interactive w
 ## Repository Structure
 
 ```
-Agents_Assignment/
+smolagents_sandbox/
 ├── app.py              # Main Gradio app and agent logic
 ├── requirements.txt    # Python dependencies
 ├── README.md           # Project documentation (this file)
@@ -23,7 +23,7 @@ Agents_Assignment/
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-username/Agents_Assignment.git
+   git clone https://github.com/your-username/smolagents_sandbox.git
    cd Agents_Assignment
    ```
 
@@ -70,7 +70,7 @@ This repository is ready for deployment on [Hugging Face Spaces](https://hugging
 - Replace this README with the following configuration 
 ```
 ---
-title: Template Final Assignment
+title: smolagents_sandbox
 emoji: 🕵🏻‍♂️
 colorFrom: indigo
 colorTo: indigo
@@ -95,5 +95,3 @@ Further check out the configuration reference at https://huggingface.co/docs/hub
 This project is licensed under the Apache 2.0 License.
 
 ---
-
-For any questions or issues, please open an issue in this repository.
